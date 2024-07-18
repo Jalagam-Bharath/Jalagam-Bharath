@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jalagam Bharath Kumar</h1>
 <h3 align="center">Passionate About Coding and Learning</h3>
 
+## About Me
+
+I'm a Full Stack Developer with a passion for solving complex problems and a strong foundation in data structures and algorithms. I love turning innovative ideas into scalable, robust solutions and am always eager to learn new technologies.
+
+### Skills & Expertise
+- 🔧 *Full Stack Development*: HTML, CSS, JavaScript, React, NodeJs, Express, MongoDB, MySQL
+- 🧠 *Problem-Solving*: Strong analytical skills with a focus on efficient, clean code
+- 📚 *Data Structures & Algorithms*: Experienced in optimizing performance and implementing best practices
+
 - 📫 How to reach me **jalagambharath26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
